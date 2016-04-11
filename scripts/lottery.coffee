@@ -3,7 +3,7 @@
 # Reference:
 #   http://qiita.com/esehara@github/items/0774004d8761a5f24a72
 
-duty_free = ['f837-hubot', 'slackbot']
+duty_free = ['f837-hubot', 'slackbot', 'f837-bot']
 
 _ = require 'underscore'
 module.exports = (robot) ->
